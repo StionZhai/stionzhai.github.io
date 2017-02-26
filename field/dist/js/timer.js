@@ -18,7 +18,7 @@
             clearInterval(timer);
 
             document.querySelector('.timer-tick')
-                .innerHTML = '<div class="time-to-go">2017-02-25 一个很幸福的日子💕</div>';
+                .innerHTML = '<div class="time-to-go">2017-02-25 一个很幸福的日子💕<br>暂时记录下, 该添加个新页面了☺</div>';
         }
 
         document.querySelector('.timer-digit-days').innerHTML = days;
