@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://stionzhai.github.io/2017/03/07/design/</loc>
+    
+    <lastmod>2017-03-07T08:00:34.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://stionzhai.github.io/field/dist/js/timer.js</loc>
     
     <lastmod>2017-02-26T10:11:50.000Z</lastmod>
