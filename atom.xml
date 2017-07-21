@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://stionzhai.github.io/"/>
-  <updated>2017-03-07T12:54:53.000Z</updated>
+  <updated>2017-07-21T10:12:30.000Z</updated>
   <id>http://stionzhai.github.io/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>scroll 事件解析</title>
+    <link href="http://stionzhai.github.io/2017/07/21/scroll/"/>
+    <id>http://stionzhai.github.io/2017/07/21/scroll/</id>
+    <published>2017-07-21T09:58:03.000Z</published>
+    <updated>2017-07-21T10:12:30.000Z</updated>
+    
+    <content type="html">&lt;p&gt;滚动事件非常有趣, 也相对来说比较复杂, 基于滚动事件可以做出非常炫酷的东西, 如&lt;a href=&quot;http://lol.qq.com/act/a20140617rift/index.shtml&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;视觉动差&lt;/a&gt;效果. 想驾驭&lt;code&gt;scroll&lt;/code&gt;事件, 需要付出点代价 – &lt;code&gt;scroll&lt;/code&gt;基础&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;scroll 事件的&lt;a href=&quot;http://w3help.org/zh-cn/causes/SD9013&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;支持情况&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;todo&quot;&gt;&lt;a href=&quot;#todo&quot; class=&quot;headerlink&quot; title=&quot;todo&quot;&gt;&lt;/a&gt;todo&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;什么情况下回触发 &lt;code&gt;document/window.onscroll&lt;/code&gt; 事件(body固定高度测试, 滚动内部内容测试)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.alloyteam.com/index.php?s=%E8%A7%86%E5%B7%AE&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;视差效果&lt;/a&gt;学习&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;滚动事件非常有趣, 也相对来说比较复杂, 基于滚动事件可以做出非常炫酷的东西, 如&lt;a href=&quot;http://lol.qq.com/act/a20140617rift/index.shtml&quot;&gt;视觉动差&lt;/a&gt;效果. 想驾驭&lt;code&gt;scroll&lt;/code&gt;事件, 需要付出点代价 – &lt;code&gt;scroll&lt;/code&gt;基础&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>design</title>
