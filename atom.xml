@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://stionzhai.github.io/"/>
-  <updated>2017-07-21T10:12:30.000Z</updated>
+  <updated>2017-08-01T08:01:23.000Z</updated>
   <id>http://stionzhai.github.io/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基础精通</title>
+    <link href="http://stionzhai.github.io/2017/08/01/base/"/>
+    <id>http://stionzhai.github.io/2017/08/01/base/</id>
+    <published>2017-08-01T07:53:40.000Z</published>
+    <updated>2017-08-01T08:01:23.000Z</updated>
+    
+    <content type="html">&lt;p&gt;收集记录一些学习领域中的基础知识, 发现打开了一扇新世界的大门&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h3 id=&quot;前端领域&quot;&gt;&lt;a href=&quot;#前端领域&quot; class=&quot;headerlink&quot; title=&quot;前端领域&quot;&gt;&lt;/a&gt;前端领域&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://fex.baidu.com/blog/2014/05/what-happen/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;从输入 URL 到页面加载完成的过程中都发生了什么事情？&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;看完多益大神的文章, 瞬间感觉发现了新大陆, 视野开阔了好多倍. 以后好好努力, 希望自己待到枝繁叶茂时也能这样分享知识&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;收集记录一些学习领域中的基础知识, 发现打开了一扇新世界的大门&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>scroll 事件解析</title>
