@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://stionzhai.github.io/"/>
-  <updated>2017-08-01T08:01:23.000Z</updated>
+  <updated>2017-08-01T08:07:10.000Z</updated>
   <id>http://stionzhai.github.io/</id>
   
   <author>
@@ -14,6 +14,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>巅峰人生</title>
+    <link href="http://stionzhai.github.io/2017/08/01/%E5%B7%85%E5%B3%B0%E4%BA%BA%E7%94%9F/"/>
+    <id>http://stionzhai.github.io/2017/08/01/巅峰人生/</id>
+    <published>2017-08-01T08:05:58.000Z</published>
+    <updated>2017-08-01T08:07:10.000Z</updated>
+    
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;摘录一些巨人的传奇, 共勉&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;amp;mid=2650997166&amp;amp;idx=1&amp;amp;sn=117ec206ded79649173197b4ba63ff4a&amp;amp;chksm=bdbef9fd8ac970ebf8eaf1d348944b499039d0863a67392070c6df5ac5a826231c54a84b8520&amp;amp;mpshare=1&amp;amp;scene=23&amp;amp;srcid=0730sF6mKWfcDtWIypBswQhP#rd&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Linux、Git 之父 Linus Torvalds 的别样技术人生&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;摘录一些巨人的传奇, 共勉&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>基础精通</title>
