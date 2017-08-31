@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://stionzhai.github.io/"/>
-  <updated>2017-08-01T08:07:10.000Z</updated>
+  <updated>2017-08-31T02:39:42.000Z</updated>
   <id>http://stionzhai.github.io/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>web 计时器相关知识科普</title>
+    <link href="http://stionzhai.github.io/2017/08/31/timmer/"/>
+    <id>http://stionzhai.github.io/2017/08/31/timmer/</id>
+    <published>2017-08-31T02:32:00.000Z</published>
+    <updated>2017-08-31T02:39:42.000Z</updated>
+    
+    <content type="html">&lt;p&gt;计时器存在很多细节, 比如: 异步、移动端冻结等等, 有些场景下也是计时器来打主力的, 深入了解下&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h3 id=&quot;深入理解计时器异步机制&quot;&gt;&lt;a href=&quot;#深入理解计时器异步机制&quot; class=&quot;headerlink&quot; title=&quot;深入理解计时器异步机制&quot;&gt;&lt;/a&gt;深入理解计时器异步机制&lt;/h3&gt;&lt;p&gt;先列个计划, 以后补充上 &lt;code&gt;setTimeout&lt;/code&gt; 异步机制与应用&lt;/p&gt;
+&lt;h3 id=&quot;移动端计时器&quot;&gt;&lt;a href=&quot;#移动端计时器&quot; class=&quot;headerlink&quot; title=&quot;移动端计时器&quot;&gt;&lt;/a&gt;移动端计时器&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;移动端计时器可以做很多事情, 比如监控页面是否被冻结、动画、dom 变化&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://imququ.com/post/mobile-web-and-js-timer.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;移动 web 和 javascript 定时器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://imququ.com/post/ios-none-freeze-timer.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;不会被 iOS 停掉的网页定时器&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;TODO:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;做一个页面被冻结多久的检测组件&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;计时器存在很多细节, 比如: 异步、移动端冻结等等, 有些场景下也是计时器来打主力的, 深入了解下&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>巅峰人生</title>
