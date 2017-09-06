@@ -79,7 +79,7 @@
     <link href="http://stionzhai.github.io/2017/08/01/base/"/>
     <id>http://stionzhai.github.io/2017/08/01/base/</id>
     <published>2017-08-01T07:53:40.000Z</published>
-    <updated>2017-08-02T11:37:15.000Z</updated>
+    <updated>2017-09-06T03:54:23.000Z</updated>
     
     <content type="html">&lt;p&gt;摘录一些学习领域中的基础知识, 打开新世界的大门&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -91,6 +91,12 @@
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://fex.baidu.com/blog/2014/04/html5-uploader/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;h5 文件上传组件深度剖析&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;文件上传基础&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.qcloud.com/community/article/985614&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;基础篇&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ruanyifeng.com/blog/2012/08/file_upload.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;渐进式增强&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://javascript.ruanyifeng.com/htmlapi/file.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;文件和二进制数据的操作&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     
@@ -427,7 +433,7 @@
     <link href="http://stionzhai.github.io/2016/04/21/%E5%96%84%E5%85%B6%E4%BA%8B-%E5%88%A9%E5%85%B6%E5%99%A8/"/>
     <id>http://stionzhai.github.io/2016/04/21/善其事-利其器/</id>
     <published>2016-04-21T09:35:59.000Z</published>
-    <updated>2017-05-14T04:54:09.000Z</updated>
+    <updated>2017-09-05T02:26:06.000Z</updated>
     
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;听人说: 日积月累, 养得深根, 日后方能枝繁叶茂&lt;/p&gt;
@@ -512,6 +518,7 @@
 &lt;/ul&gt;
 &lt;h3 id=&quot;软技能&quot;&gt;&lt;a href=&quot;#软技能&quot; class=&quot;headerlink&quot; title=&quot;软技能&quot;&gt;&lt;/a&gt;软技能&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://www.oschina.net/news/84785/programmer-profect-time&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;时间评估&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&amp;amp;mid=2247486217&amp;amp;idx=1&amp;amp;sn=bc1458a89bb8b0e2a39d8e79c46eb95e&amp;amp;source=41#wechat_redirect&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;你不是Google，一语点醒技术人&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     
